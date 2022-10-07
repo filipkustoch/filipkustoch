@@ -38,5 +38,5 @@
 
 <details>
 <summary><h3>👨‍💻 Filip's Coding Journey</h3></summary>
-I started my coding journey as a naive kid with a passion to learn everything I could about this programming world. And all the while, teaching myself C++ development with a dream to build something uniqe, but that soon got overshadowed by my desire to excel in JavaScript. A desire that made me get a job as an e-commerce specialist after graduating from an IT technical school. However, I have another desire that I have been pursuing all this time - work as a Frontend Developer. Eventually, I will quit my job as an e-commerce specialist to take on Frontend full-time and focus on that ever since.
+I started my coding journey as a naive kid with a passion to learn everything I could about this programming world. And all the while, teaching myself C++ development with a dream to build something uniqe, but that soon got overshadowed by my desire to excel in JavaScript. A desire that made me get a job as an e-commerce specialist a year before graduating from an IT technical school. However, I have another desire that I have been pursuing all this time - work as a Frontend Developer. Eventually, I will quit my job as an e-commerce specialist to take on Frontend full-time and focus on that ever since.
 </details>
