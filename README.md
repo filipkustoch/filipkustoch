@@ -2,9 +2,9 @@
 
 <h2>About Me</h2>
 
-<p style="color: rebeccapurple; font-size: 2rem; font-style: italic; font-weight: 600;"> 21 | Frontend Developer | Aspiring Computer Programmer | I am doing my best to develop.</p>
+<p style="color: rebeccapurple; font-size: 2rem; font-style: italic; font-weight: 600;"> 21 | Software Developer | Aspiring Computer Programmer | I am doing my best to develop.</p>
 
-- 🌱 I’m currently learning **Javascript, React**
+- 🌱 I’m currently learning **PHP**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/filipkustoch?tab=repositories)
 
