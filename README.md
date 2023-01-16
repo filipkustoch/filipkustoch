@@ -41,7 +41,8 @@
 <details>
 <summary><h3>👨‍💻 Filip's Coding Journey</h3></summary>
 As I delved deeper into the world of coding, I quickly realized that the possibilities were endless. My passion for learning and understanding the intricacies of programming only grew stronger with each new concept I discovered. I poured countless hours into teaching myself C++ development, but my focus soon shifted to mastering JavaScript and PHP.
-  
+
+
 With a newfound sense of determination, I landed a job as an e-commerce specialist a year before graduating from an IT technical school. However, my ultimate goal of working as a Web Developer never faded. I spent every spare moment honing my skills and experimenting with new technologies, always pushing myself to be better.
 
 Eventually, the time will come for me to take the leap and pursue my true passion full-time. I will quit my job as an e-commerce specialist and fully immerse myself in the world of Web Development. It will be a difficult decision, but one that I know will ultimately lead me to the success and fulfillment that I have always dreamed of.
