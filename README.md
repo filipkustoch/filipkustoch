@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **filip.kustoch1@gmail.com**
 
+- 💵 One of my commercial projects is available on http://dakonjurkowski.pl/
+
 
 ### 🛠 &nbsp;Languages and Tools
 
