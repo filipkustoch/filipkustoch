@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **PHP**
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/filipkustoch?tab=repositories)
+- 💵 One of my commercial projects is available on http://dakonjurkowski.pl/
 
 - 📫 How to reach me **filip.kustoch1@gmail.com**
 
-- 💵 One of my commercial projects is available on http://dakonjurkowski.pl/
+- 👨‍💻 All of my projects are available at [github](https://github.com/filipkustoch?tab=repositories)
 
 
 ### 🛠 &nbsp;Languages and Tools
