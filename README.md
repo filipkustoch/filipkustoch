@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **filip.kustoch1@gmail.com**
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/filipkustoch?tab=repositories)
+- 👨‍💻 Most of my private projects are available at [github](https://github.com/filipkustoch?tab=repositories)
 
 
 ### 🛠 &nbsp;Languages and Tools
