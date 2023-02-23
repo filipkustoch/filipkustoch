@@ -29,16 +29,16 @@
 
 
 <br/>
+<!-- 
+### ⚙️ &nbsp;GitHub Analytics -->
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/filipkustoch">
+<!-- <p align="center">
+<a href="https://github.com/filipkustoch"> -->
 <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=filipkustoch&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=filipkustoch&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
+<!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=filipkustoch&layout=compact&langs_count=8&theme=algolia"/> -->
+<!-- </a>
+</p> -->
+<br>
 <details>
 <summary><h3>👨‍💻 Filip's Coding Journey (click me)</h3></summary>
 As I delved deeper into the world of coding, I quickly realized that the possibilities were endless. My passion for learning and understanding the intricacies of programming only grew stronger with each new concept I discovered. I poured countless hours into teaching myself C++ development, but my focus soon shifted to mastering JavaScript and PHP.
