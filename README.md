@@ -2,9 +2,9 @@
 
 <h2>About Me</h2>
 
-<p style="color: rebeccapurple; font-size: 2rem; font-style: italic; font-weight: 600;"> 21 | Software Developer | Aspiring Computer Programmer | I am doing my best to develop.</p>
+<p style="color: rebeccapurple; font-size: 2rem; font-style: italic; font-weight: 600;"> 22 | Software Developer | Aspiring Computer Programmer | I am doing my best to develop.</p>
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently improving my skills in **PHP**
 
 - 💵 One of my commercial projects is available on http://dakonjurkowski.pl/
 
