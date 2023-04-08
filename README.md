@@ -41,11 +41,11 @@
 <br>
 <details>
 <summary><h3>👨‍💻 Filip's Coding Journey (click me)</h3></summary>
-As I delved deeper into the world of coding, I quickly realized that the possibilities were endless. My passion for learning and understanding the intricacies of programming only grew stronger with each new concept I discovered. I poured countless hours into teaching myself C++ development, but my focus soon shifted to mastering JavaScript and PHP.
+As I delved deeper into the world of coding, I quickly realized the endless possibilities it offers. My passion for learning and understanding the intricacies of programming grew stronger with each new concept I discovered. I devoted countless hours to teaching myself C++ development, but soon shifted my focus to mastering JavaScript and PHP.
 <br><br>
-With a newfound sense of determination, I landed a job as an e-commerce specialist a year before graduating from an IT technical school. However, my ultimate goal of working as a Web Developer never faded. I spent every spare moment honing my skills and experimenting with new technologies, always pushing myself to be better.
+With an unwavering determination, I secured a job as an e-commerce specialist a year before graduating from an IT technical school. However, my ultimate goal of becoming a software developer never waned. I spent every spare moment honing my skills and experimenting with new technologies, always pushing myself to be better.
 <br><br>
-Eventually, the time will come for me to take the leap and pursue my true passion full-time. I will quit my job as an e-commerce specialist and fully immerse myself in the world of Web Development. It will be a difficult decision, but one that I know will ultimately lead me to the success and fulfillment that I have always dreamed of.
+Finally, the time has come for me to take the leap and pursue my true passion full-time. I resigned from my job as an e-commerce specialist and completely immersed myself in the world of web development. It was a difficult decision, but one that I know will ultimately lead me to success and the fulfillment I've always dreamed of.
 <br><br>
-As a dedicated Web Developer, I will be constantly pushing the boundaries of what can be achieved through code. I am driven by the never-ending pursuit of knowledge and the thrill of creating something truly amazing. And I know that this is where I belong, doing what I love and making a difference in the world of technology.
+As a dedicated developer, I will always be pushing the boundaries of what can be achieved with code. I am driven by an unquenchable thirst for knowledge and the thrill of creating something truly amazing. And I know that this is where I belong, doing what I love and changing the world of technology.
 </details>
