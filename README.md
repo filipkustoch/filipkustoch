@@ -4,7 +4,7 @@
 
 <p style="color: rebeccapurple; font-size: 2rem; font-style: italic; font-weight: 600;"> 22 | Software Developer | Aspiring Computer Programmer | I am doing my best to develop.</p>
 
-- 🌱 I’m currently improving my skills in **PHP**
+- 🌱 I’m currently improving my skills in **Symfony**
 
 - 💵 One of my commercial projects is available on http://dakonjurkowski.pl/
 
