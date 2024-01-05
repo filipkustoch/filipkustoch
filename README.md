@@ -2,7 +2,7 @@
 
 <h2>About Me</h2>
 
-<p style="color: rebeccapurple; font-size: 2rem; font-style: italic; font-weight: 600;"> 22 | Software Developer | Aspiring Computer Programmer | I am doing my best to develop.</p>
+<p style="color: rebeccapurple; font-size: 2rem; font-style: italic; font-weight: 600;"> 22 | Web Developer | PHP 👑 | Doing my best to develop.</p>
 
 - 🌱 I’m currently improving my skills in **Symfony**
 
