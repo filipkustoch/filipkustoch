@@ -2,11 +2,17 @@
 
 <h2>About Me</h2>
 
-<p style="color: rebeccapurple; font-size: 2rem; font-style: italic; font-weight: 600;"> 22 | Web Developer | PHP 👑 | Doing my best to develop.</p>
+<p style="color: rebeccapurple; font-size: 2rem; font-style: italic; font-weight: 600;"> 23 | Web Developer | PHP 👑 | Doing my best to develop.</p>
 
-- 🌱 I’m currently improving my skills in **Symfony**
+- 🌱 I’m currently improving my skills in **WordPress**
 
-- 💵 One of my commercial projects is available on http://dakonjurkowski.pl/
+- 💵 One of my commercial projects are available on
+- https://mruczanki.pl/
+- https://sklep.tofimedia.pl/ (WorkInProgress)
+- http://dakonjurkowski.pl/
+- https://hidevision.pl/
+- https://m-koparka.pl/
+
 
 - 📫 How to reach me **filip.kustoch1@gmail.com**
 
