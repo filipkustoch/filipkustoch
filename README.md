@@ -2,16 +2,17 @@
 
 <h2>About Me</h2>
 
-<p style="color: rebeccapurple; font-size: 2rem; font-style: italic; font-weight: 600;"> 23 | Web Developer | PHP 👑 | Doing my best to develop.</p>
-
-- 🌱 I’m currently improving my skills in **WordPress**
+<p style="color: rebeccapurple; font-size: 2rem; font-style: italic; font-weight: 600;"> 25 | Web Developer | PHP 👑 | Doing my best to develop.</p>
 
 - 💵 One of my commercial projects are available on
-- https://mruczanki.pl/
-- https://sklep.tofimedia.pl/ (WorkInProgress)
-- http://dakonjurkowski.pl/
-- https://hidevision.pl/
+- https://dakonjurkowski.pl/
+- https://teammichal.pl/
+- https://nordin.pl/
+- https://steakhousepuck.pl/
 - https://m-koparka.pl/
+- https://willaintryga.pl/
+- https://pokojemagda.pl/
+- https://sellboosters.com/
 
 
 - 📫 How to reach me **filip.kustoch1@gmail.com**
@@ -22,7 +23,6 @@
 ### 🛠 &nbsp;Languages and Tools
 
 
-<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original-wordmark.svg" />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
@@ -31,8 +31,9 @@
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elementor/elementor-original.svg" />
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/openai/412991" />
 
 
 <br/>
