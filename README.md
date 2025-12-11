@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **filip.kustoch1@gmail.com**
 
-- 👨‍💻 Most of my private projects are available at [github](https://github.com/filipkustoch?tab=repositories)
-
 
 ### 🛠 &nbsp;Languages and Tools
 
